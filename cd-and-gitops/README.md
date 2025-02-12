@@ -285,3 +285,7 @@ Following are the steps: </br>
     ```bash
        kubectl apply -f harness-delegate.yml
    ```
+3. You can verify all the resources especially deployment installed using:
+   ```bash
+       kubectl get all -n harness-delegate-ng
+   ```
