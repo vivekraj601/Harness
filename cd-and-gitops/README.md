@@ -9,4 +9,4 @@
 - Then we specify how do we want to deploy, whether using CD GitOps or CD pipeline. For both of these cases, we need to connect Harness to our cluster. </br>
 For CD GitOps, these are the steps:
 1. Download Helm Chart for GitOps Agent and Argo CD. </br>
-   [Download GitOps Agent](cd-and-gitops/gitops-agent.tgz)
+   [Download GitOps Agent](./gitops-agent.tgz)
