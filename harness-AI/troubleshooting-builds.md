@@ -89,5 +89,12 @@ It can help us determine build failures and can provide suggestions to troublesh
 ```
 
 - Then as we can see, we got an error in "BuildAndPushECR" step of "Build" stage.
-  ![Build Screenshot](https://raw.githubusercontent.com/vivekraj601/Harness/harness-AI/media/build.png)
+  </br>
+  </br>
+  ![Build Error Screenshot](https://github.com/vivekraj601/Harness/blob/e4d15adb5abd70d2ca2e49098bbd6c2d9b4d9f26/harness-AI/media/build.png)
+
+- In the bottom right corner, we can see ask AIDA icon, using this we can get insights of why we got this error and what needs to be done to resolve this.
+  </br>
+  </br>
+  ![Build Error Screenshot](https://github.com/vivekraj601/Harness/blob/e4d15adb5abd70d2ca2e49098bbd6c2d9b4d9f26/harness-AI/media/build.png)
 
