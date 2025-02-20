@@ -89,5 +89,5 @@ It can help us determine build failures and can provide suggestions to troublesh
 ```
 
 - Then as we can see, we got an error in "BuildAndPushECR" step of "Build" stage.
-  ![Build Screenshot](https://raw.githubusercontent.com/vivekraj601/harness-AI/media/build.png)
+  ![Build Screenshot](https://raw.githubusercontent.com/vivekraj601/Harness/harness-AI/media/build.png)
 
