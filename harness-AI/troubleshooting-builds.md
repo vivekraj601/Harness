@@ -87,3 +87,6 @@ It can help us determine build failures and can provide suggestions to troublesh
                 type: StageRollback
 
 ```
+
+- Then as we can see, we got an error in "BuildAndPushECR" step of "Build" stage.
+  ![Screenshot of my application](screenshot.png)
