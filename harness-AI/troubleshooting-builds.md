@@ -98,7 +98,7 @@ It can help us determine build failures and can provide suggestions to troublesh
   </br>
   ![Build Error Screenshot](https://github.com/vivekraj601/Harness/blob/96824ef6334d1f2c412c1159e142185aad1fdf2c/harness-AI/media/AIDA-ask.png)
 
-- Harness AIDA will assist weith root cause and possible remediations.
+- Harness AIDA will assist with root cause and possible remediations.
   </br>
   </br>
   ![Build Error Screenshot](https://github.com/vivekraj601/Harness/blob/96824ef6334d1f2c412c1159e142185aad1fdf2c/harness-AI/media/AIDA-sol.png)
