@@ -16,4 +16,4 @@ With Semantic Code Search enabled, AIDA treats your search query as a natural la
 
 </br>
 
-![searcho-code](https://github.com/vivekraj601/Harness/blob/e4d15adb5abd70d2ca2e49098bbd6c2d9b4d9f26/harness-AI/media/build.png)
+![searcho-code](https://github.com/vivekraj601/Harness/blob/9d09fcd967ebd19cc53ce188a5f6c003544c587b/harness-AI/media/search2.png)
