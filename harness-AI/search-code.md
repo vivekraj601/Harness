@@ -12,7 +12,7 @@ With Semantic Code Search enabled, AIDA treats your search query as a natural la
 - Where do we configure the logger?
 - What repositories does the group 'platform-devs' own code in?
 
-![searcho-code](https://github.com/vivekraj601/Harness/blob/e4d15adb5abd70d2ca2e49098bbd6c2d9b4d9f26/harness-AI/media/build.png)
+![searcho-code](https://github.com/vivekraj601/Harness/blob/0653b2cc59b33e835827c2bee00db3874fd3b818/harness-AI/media/search.png)
 
 </br>
 
