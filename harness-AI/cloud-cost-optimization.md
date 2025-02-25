@@ -12,3 +12,6 @@ This is a tool designed to help organizations monitor, analyze, and reduce cloud
 Uses AI to analyze usage patterns and automatically shut down idle VMs, containers, and databases when not in use.
 Adapts schedules dynamically based on actual workload behavior.
 Prevents zombie instances from running in the background (resources left running accidentally).
+![CCM](https://github.com/vivekraj601/Harness/blob/2fdee269c6fee957975755cfbc66e4f2d24032bc/harness-AI/media/ccm1.png)
+
+![CCM2](https://github.com/vivekraj601/Harness/blob/2fdee269c6fee957975755cfbc66e4f2d24032bc/harness-AI/media/ccm2.png)
