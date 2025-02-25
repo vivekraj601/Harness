@@ -52,4 +52,5 @@ spec:
               memory: "512Mi"
       restartPolicy: Always
 ```
-- 
+- Now when we create a PR, we can see there Hanress AIDA option which will generate PR summary.
+  
