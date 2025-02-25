@@ -14,4 +14,42 @@ Automatic pull request summaries enhance the collaborative development process b
 - The issues it addresses.
 - Potential impacts on the existing codebase. </br>
 
-By providing a clear and detailed context right from the start, automatic pull request descriptions facilitate quicker and more effective review processes. Reviewers can easily understand the intent and scope of the changes without needing to delve deeply into the code itself.
+By providing a clear and detailed context right from the start, automatic pull request descriptions facilitate quicker and more effective review processes. Reviewers can easily understand the intent and scope of the changes without needing to delve deeply into the code itself. </br>
+
+### Example:
+- Let say I made some changes on a branch other than "main" and now i want to create a Pull Request to merge those changes ontot he main branch. Suppose this is the deployment.yaml file for an application named my-app I've added using a new branch:
+```yaml
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: my-app
+  labels:
+    app: my-app
+spec:
+  replicas: 3
+  selector:
+    matchLabels:
+      app: my-app
+  template:
+    metadata:
+      labels:
+        app: my-app
+    spec:
+      containers:
+        - name: my-app-container
+          image: my-app-image:latest  # Replace with your actual image
+          ports:
+            - containerPort: 80
+          env:
+            - name: ENVIRONMENT
+              value: "production"
+          resources:
+            requests:
+              cpu: "250m"
+              memory: "256Mi"
+            limits:
+              cpu: "500m"
+              memory: "512Mi"
+      restartPolicy: Always
+```
+- 
