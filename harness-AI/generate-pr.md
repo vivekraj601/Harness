@@ -52,5 +52,9 @@ spec:
               memory: "512Mi"
       restartPolicy: Always
 ```
-- Now when we create a PR, we can see there Hanress AIDA option which will generate PR summary.
-  
+- Now when we create a PR, we can see there Hanress AIDA option which will generate PR summary. </br>
+
+![searcho-code](https://github.com/vivekraj601/Harness/blob/8338dacecd2d32816f660373f566cc49e0e63ba0/harness-AI/media/PR.png)
+  </br>
+  </br>
+![searcho-code](https://github.com/vivekraj601/Harness/blob/8338dacecd2d32816f660373f566cc49e0e63ba0/harness-AI/media/PR2.png)
