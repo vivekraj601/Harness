@@ -22,6 +22,7 @@ From this dashboard itself we can turn on any stopped instance and also check hi
 ### Harness AIDA offers comprehensive support with the following functionalities:
 
 - Assist with writing rules: Harness AIDA helps you formulate rules tailored to your specific requirements. It understands your requirements and generates customized rules to align with your governance objectives.
+- Describe existing rules: Harness AIDA offers detailed descriptions of built-in rules. This feature enables you to understand the purpose, scope, and implications of each rule, thereby facilitating informed decision-making during the policy creation process.
 
 ![CCM2](https://github.com/vivekraj601/Harness/blob/432059ba5e68b96b5f1e0a04888a059359caa470/harness-AI/media/ccm3.png)
 
